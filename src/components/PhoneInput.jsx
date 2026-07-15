@@ -12,7 +12,6 @@ function PhoneInput() {
     name: '',
     number: ''
   });
-
   const handleChange = (event) => {
     const { name, value } = event.target;
     setForm({ ...form, [name]: value });

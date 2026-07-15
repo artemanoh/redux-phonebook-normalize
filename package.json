@@ -1,7 +1,7 @@
 {
-  "name": "redux-phonebook_mock",
+  "name": "redux-phonebook_normalizer",
   "version": "0.1.0",
-  "homepage": "https://artemanoh.github.io/redux-phonebook_mock",
+  "homepage": "https://artemanoh.github.io/redux-phonebook_normalize",
   "private": true,
   "dependencies": {
     "@reduxjs/toolkit": "^2.12.0",
