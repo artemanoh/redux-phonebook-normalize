@@ -1,7 +1,7 @@
 {
-  "name": "redux-phonebook_normalize",
+  "name": "redux-phonebook-normalize",
   "version": "0.1.0",
-  "homepage": "https://artemanoh.github.io/redux-phonebook_normalize",
+  "homepage": "https://artemanoh.github.io/redux-phonebook-normalize",
   "private": true,
   "dependencies": {
     "@reduxjs/toolkit": "^2.12.0",
