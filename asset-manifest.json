@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/redux-phonebook_normalize/static/css/main.fe8546d9.css",
+    "main.js": "/redux-phonebook_normalize/static/js/main.bad413e1.js",
+    "index.html": "/redux-phonebook_normalize/index.html",
+    "main.fe8546d9.css.map": "/redux-phonebook_normalize/static/css/main.fe8546d9.css.map",
+    "main.bad413e1.js.map": "/redux-phonebook_normalize/static/js/main.bad413e1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fe8546d9.css",
+    "static/js/main.bad413e1.js"
+  ]
+}
